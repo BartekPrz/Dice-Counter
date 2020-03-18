@@ -11,7 +11,7 @@ Firstly, script is focused on find all dices on picture and after that, try to f
 <a href="https://github.com/BartekPrz"><img src="https://avatars3.githubusercontent.com/u/38264818?s=400&v=4" title="BartekPrz" width="80" height="80"></a>
 
 More info: 
-<a href="https://github.com/BartekPrz/Diece-counter/blob/master/SumUp.pdf">SumUp.pdf</a>
+<a href="https://github.com/BartekPrz/Dice-counter/blob/master/SumUp.pdf">SumUp.pdf</a>
 
 ![3](https://user-images.githubusercontent.com/38052250/76362341-31df2680-6321-11ea-9a0a-e446ba86c041.PNG)
 
